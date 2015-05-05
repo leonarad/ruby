@@ -1,6 +1,6 @@
 # Ruby Style Guide
 
-This is Airbnb's Ruby Style Guide.
+This is Airbnb's Ruby Style Guide. It shows best practices for writing Ruby code.
 
 It was inspired by [Github's guide][github-ruby] and [Bozhidar Batsov's guide][bbatsov-ruby].
 
